@@ -1,0 +1,136 @@
+* {
+     box-sizing: border-box;
+ }
+ body{
+     background-color: #23252C;
+     color: white;
+ }
+ 
+ img{
+     margin-top: 0px;
+     margin-bottom: 21px;
+     width: 317px;
+    /* border: 1px solid #000000; */
+     border-radius: 10px 10px 0px 0px;
+ }
+ /****** CSS for the letters *******/
+ 
+ .about{
+     background-color: #1A1B21;
+     width: 317px;
+     height: 350px;
+     margin: 0 auto;
+ }
+ 
+ .head{
+     background-color: #1A1B21;
+     width: 317px;
+     margin: 0 auto;
+     border-radius: 10px 10px 0px 0px;
+ }
+ 
+ .name{
+     font-size: 25px;
+     font-family: inter;
+     font-weight: 700;
+     text-align: center;
+     margin: 0;
+ }
+ 
+ .job{
+     text-align: center;
+     color: #F3BF99;
+     margin: 7px 0 0 0;
+     font-size: 13px;
+     font-family: inter;
+     font-weight: 400;
+     line-height: 10px;
+ }
+ 
+ h6{
+     text-align: center;
+     margin: 15px 0 0 0;
+     font-family: inter;
+     font-weight: 400;
+     font-size: 10px;
+     color: #F5F5F5;    
+ }
+ 
+ /****** CSS for the Buttons *******/
+ 
+ .buttons{
+     display: flex;
+     justify-content: center;
+ }
+ 
+ .email{
+     margin-top: 15px;
+     width: 115px;
+     height: 34px;
+     background: #FFFFFF;
+     border: 1px solid #D1D5DB;
+     border-radius: 6px;
+     align-items: center;
+     
+ }
+ 
+ button > i {
+     margin-right: 5px;
+ }
+ 
+ .linkedin{
+     margin-top: 15px;
+     margin-left: 20px;
+     width: 115px;
+     height: 34px;
+     border: 1px solid #5093E2;
+     border-radius: 6px;
+     background: #5093E2;
+     color: white;
+     box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+ }
+ 
+ /****** CSS for Section About *******/
+ 
+ .title {
+     line-height: 150%;
+     margin: 30px 35px 5px 33px;
+     font-family: inter;
+     font-size: 16px;
+     font-weight: 700;
+     color: #F5F5F5;
+ }
+ 
+ p{
+     color: #DCDCDC;
+     font-family: inter;
+     font-weight: 400;
+     font-size: 10px;
+     margin: 0 35px 0px 33px;
+     text-align: justify;
+ }
+ 
+ /************** CSS for the Footer section *************/
+ .footer{
+     display: flex;
+     background: #161619;
+     width: 317px;
+     margin: 0 auto;
+     height: 64px;
+     border-radius: 0px 0px 10px 10px;
+    /* border: 1px solid #000000;*/
+     align-items: center;
+ }
+ 
+ .footer > button {
+     width: 30px;
+     height: 30px;
+     background: #d4d1dd;
+     justify-content: center;
+     border-radius: 5px;
+     margin-right: 25px; 
+ }
+ 
+ .face {
+     margin-left: 70px;
+ } 
