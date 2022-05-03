@@ -1,6 +1,8 @@
 # Profile Info Page built with ReactJs
 
-This project was bootstrapped with [Create React App]
+This project was bootstrapped with Create React App
+
+Twitter: @Mike_Bello90
 
 ![image](https://user-images.githubusercontent.com/51422943/166503409-6b8a52ae-030b-443d-a7e5-11f06bd3ca4a.png)
 
