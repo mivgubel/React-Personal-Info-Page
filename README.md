@@ -1,6 +1,6 @@
 # Profile Info Page built with ReactJs
 
-This project was bootstrapped with Create React App
+This project was bootstrapped with ReactJs (Html, Css. Javascript)
 
 Twitter: @Mike_Bello90
 
